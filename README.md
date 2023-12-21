@@ -1,3 +1,8 @@
+<p align="center">
+<img src="icon.png"/>
+</p>
+<h1 align="center">GitHub Ultimate</h1>
+
 # Table Of Contents
 
 - [Introduction](#introduction)
